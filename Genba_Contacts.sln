@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genba_Contacts", "Genba_Contacts\Genba_Contacts.csproj", "{E11B488F-76EA-4E1B-A711-55107CFABF8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E11B488F-76EA-4E1B-A711-55107CFABF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E11B488F-76EA-4E1B-A711-55107CFABF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E11B488F-76EA-4E1B-A711-55107CFABF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E11B488F-76EA-4E1B-A711-55107CFABF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61D59211-2011-4397-BF0E-6ADE00401D66}
+	EndGlobalSection
+EndGlobal
